@@ -1,4 +1,4 @@
-# PPD: Offline Model-Based Optimization via Tabular Foundation Model Guided Preference Distillation
+# PPD: Offline Model-Based Optimization via Tabular Foundation Model-Guided Preference Distillation
 
 Code for the paper "PPD: Offline Model-Based Optimization via Tabular Foundation Model-Guided Preference Distillation".
 
